@@ -1,0 +1,11 @@
+node_modules/
+public/javascripts/
+dist/
+_Store
+.
+..
+.DS_Store
+npm-debug.log
+public
+
+
