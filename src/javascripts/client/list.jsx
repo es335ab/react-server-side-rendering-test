@@ -11,7 +11,7 @@ class List extends Component {
   }
 
   fetchList() {
-    fetch('http://jsonplaceholder.typicode.com/users')
+    fetch('/api/users')
       .then(res => {
         return res.json();
       })
